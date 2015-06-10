@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="androidproject.caniandroidnow"
+<manifest package="au.com.videopoc"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
   <!-- For Robolectric -->

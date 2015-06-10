@@ -1,3 +1,7 @@
+// Since the checkstyle plugin uses the same task name as android's
+// check task, we get around it by redefining the task (requiring a little
+// bit of extra config).
+
 configurations {
   codequality
 }

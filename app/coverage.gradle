@@ -1,5 +1,7 @@
 apply plugin: 'jacoco'
 
+// Hack to get the build failing when below coverage threshold
+
 ext {
   limits = [
           'instruction': 58.62,

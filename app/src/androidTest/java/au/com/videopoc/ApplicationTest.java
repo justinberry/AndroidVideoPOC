@@ -1,4 +1,4 @@
-package androidproject.caniandroidnow;
+package au.com.videopoc;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
