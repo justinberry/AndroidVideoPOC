@@ -1,1 +1,1 @@
-Barebones/template Android project for use by future projects.
+Video POC for android, including an overlay
